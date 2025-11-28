@@ -1,1 +1,1 @@
-For notes - https://sauwaliajatt.github.io/web-dev-notes
+For notes - https://indersauwalia.github.io/web-dev-notes
